@@ -1,0 +1,633 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navbar
+{
+    width:100%;
+  
+}
+.navbarcontainer
+{
+    height: 70px;
+    width:62%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+ 
+}
+.navbarcontainer img
+{
+    height:70px;
+    width:15%;
+}
+
+.navbarcontainer menu
+{
+    height:70px;
+    width: 55%;
+}
+.menu ul
+{
+    list-style: none;
+}
+.menu ul li a
+{
+   text-decoration: none;
+   color: black;
+   padding: 0px 0px 0px 20px;
+}
+.icon i
+{
+    height: 70px;
+    width: 15%;
+    padding: 0px 0px 0px 20px;
+}
+.box1
+{
+    height: auto;
+    /* height: 650px; */
+    width: 100%;
+}
+.box1 img
+{
+    width: 100%;
+    height: auto;
+    /* height: 650px; */
+}
+.box2
+{
+    height:150px;
+    width:100%;
+    display: flex;
+    align-items: center;
+}
+.box
+{
+    height:150px;
+    width:65%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.b1
+{
+     height:50px;
+     width:20%;
+     background-color:grey;
+}
+.b1 p
+{
+    color: white;
+    font-family: Arial;
+    top:17px;
+    position: relative;
+    padding-left:50px;
+}
+.b2
+{
+     height:50px;
+     width:20%;
+     background-color: grey;
+}
+.b2 p
+{
+    color: white;
+    font-family: Arial;
+    top:17px;
+    position: relative;
+    padding-left:50px;
+}
+.b3
+{
+     height:50px;
+     width:20%;
+     background-color: grey;  
+}
+.b3 p
+{
+    color: white;
+    font-family: Arial;
+    top:17px;
+    position: relative;
+    padding-left:70px;
+}     
+.b4
+{
+     height:50px;
+     width:20%;
+     background-color: grey; 
+}
+.b4 p
+{
+    color: white;
+    font-family: Arial;
+    top:17px;
+    position: relative;
+    padding-left:90px;
+}
+.box3
+{
+    height:160px;
+    width:100%;
+    background-color:darkblue;
+}
+.contain
+{
+    height:150px;
+    width:65%;
+    margin: auto;
+}
+h2
+{
+    color: white;
+    font-family: arial;
+    font-weight: 10px;
+    position: relative;
+    top:50px; 
+}
+.image
+{
+    height: 400px;
+    width: 100%;
+}
+.li
+{
+    width: 60%;
+    margin: 70px auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img1 b
+{
+   font-size: 12px;
+   color: darkblue;
+}
+.img1 p
+{
+    font-size:18px ;
+    font-family: arial;
+    margin-top: 5px;
+}
+.img2 b
+{
+   font-size: 12px;
+   color: darkblue;
+}
+.img2 p
+{
+    font-size:18px ;
+    font-family: arial;
+    margin-top: 5px;
+}
+.img3 b
+{
+   font-size: 12px;
+   color: darkblue;
+}
+.img3 p
+{
+    font-size:18px ;
+    font-family: arial;
+    margin-top: 5px;
+}
+.box4
+{
+   height: auto;
+   width: 100%;
+   position: relative;
+    top:80px;
+
+}
+.box4 img
+{
+    height: auto;
+    width: 100%;
+}
+ button
+{
+    height:40px;
+    width: 15%;
+    background-color: darkblue;
+    color: white;
+    position: relative;
+    top:170px;
+}
+.box5
+{
+    height:160px;
+    width:100%;
+    background-color:darkblue;
+    position: relative;
+    top:210px;
+}
+.con
+{
+    height: 160px;
+    width: 70%;
+    margin: auto;
+}
+.con h1
+{
+    font-size: 15px;
+    font-family: arial;
+    position: relative;
+    top:75px;
+    color: white;
+}
+.con p
+{
+    font-size: 30px;
+    font-family: arial;
+    position: relative;
+    top:85px;
+    color: white;
+}
+.gallery
+{
+    height:940px;
+    width:67%;
+    margin: auto;
+    position: relative;
+    top:310px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box6
+{
+    height:470px;
+    width: 33%;
+}
+.box6 img
+{
+    height:470px;
+    width: 100%;
+    padding: 10px;
+}
+.box7
+{
+    height:470px;
+    width: 33%;
+}
+.box7 img
+{
+    height:470px;
+    width: 100%;
+    padding: 10px;
+}
+.box8
+{
+    height:470px;
+    width: 33%;
+}
+.box8 img
+{
+    height:470px;
+    width: 100%;
+    padding: 10px;
+}
+.box9
+{
+    height:470px;
+    width: 33%;
+}
+.box9 img
+{
+    height:470px;
+    width: 100%;
+    padding: 10px;
+}
+.box10
+{
+    height:470px;
+    width: 33%;
+}
+.box10 img
+{
+    height:470px;
+    width: 100%;
+    padding: 10px;
+}
+.box11
+{
+    height:470px;
+    width: 33%;
+}
+.box11 img
+{
+    height:470px;
+    width: 100%;
+    padding: 10px;
+}
+.box12
+{
+    height: 600px;
+    width: 100%;
+    background-color:whitesmoke;
+    position: relative;
+    top: 360px;
+}
+.box12 h2
+{
+    font-family: arial;
+    font-size: 40px;
+    font-weight: 20px;
+    color: black;
+    position: relative;
+    top: 70px;
+}
+.box13
+{
+    height: 350px;
+    width: 90%;
+    background-color: white;
+    position: relative;
+    top: 150px;
+}
+.box13 p
+{
+    font-family: arial;
+    color: grey;
+    position: relative;
+    top: 80px;
+}
+.box13 h1
+{
+    position: relative;
+    top: 100px;
+    font-family: arial;
+}
+.box13 button
+{
+    height:40px;
+    width: 10%;
+    background-color: darkblue;
+    color: white;
+    position: relative;
+    top:140px;
+}
+.head h1
+{
+    position: relative;
+    top: 410px;
+    font-family: arial;
+    font-size: 40px;
+    font-weight: 10px;
+
+}
+.head p
+{
+    position: relative;
+    top: 440px;
+    font-family: arial;
+}
+.info
+{
+    width: 85%;
+    margin: auto;
+    /* background-color: pink; */
+    margin-top: 25%;
+}
+.infocontainer
+{
+    margin-top: 2%;
+}
+.select
+{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.input
+{
+    margin-top: 4%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.model
+{
+    margin-left: 22%;
+    margin-top:-1.5%;
+}
+select
+{
+    height: 35px;
+    width: 20%;
+    color: grey;
+    font-size: 15px;
+}
+.search
+{
+    margin-left: 40%;
+    margin-top:-2%;
+}
+.search input
+{
+    height: 35px;
+    width: 28%;
+    color: grey;
+}
+.search i
+{
+    height: 18px;
+    margin-left: -4%;
+    padding-top: 4px;
+}
+.Km
+{
+    margin-left:60%;
+    margin-top:-2%;
+}
+.Km select
+{
+    height: 35px;
+    width:  15%;
+    color: grey;
+    font-size: 15px;
+}
+.map 
+{
+    width: 80%;
+    height: 700px;
+    margin: auto;
+    background-color: aqua;
+    margin-top:40px ;
+}
+iframe
+{
+    width: 100%;
+    height: 700px;
+}
+.bottom
+{
+    height: 460px;
+    width: 100%;
+    background-color: black;
+    border: 1px solid lightgrey;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top:30px;
+}
+.bottom img
+{
+    height: 150px;
+    width: 5%;
+    position: relative;
+    left:10%;
+   
+}
+.box14
+{
+    height: 460px;
+    width: 60%;
+    display: flex;
+    position: relative;
+    right:5%;
+}
+.p1
+{
+    height: 460px;
+    width: 18%;
+    position: relative;
+    left: 10%;
+}
+.p1 b
+{
+    font-size: 18px;
+    position: relative;
+    top: 35px;
+    font-family: arial;
+    display: flex;
+    justify-content: start;
+    color: white;
+}
+.p1 p
+{
+    position: relative;
+    top: 55px;
+    padding: 6px;
+    font-family: arial;
+    font-size: 15px;
+    display: flex;
+    justify-content: start;
+    color: grey;
+}
+.p2
+{
+    height: 460px;
+    width: 18%;
+    position: relative;
+    left: 10%;
+}
+.p2 b
+{
+    font-size: 18px;
+    position: relative;
+    top: 35px;
+    font-family: arial;
+    display: flex;
+    justify-content: start;
+    color: white;
+}
+.p2 p
+{
+    position: relative;
+    top: 55px;
+    padding: 6px;
+    font-family: arial;
+    font-size: 15px;
+    display: flex;
+    justify-content: start;
+    color: grey;
+}
+.p3
+{
+    height: 460px;
+    width: 18%;
+    position: relative;
+    left: 10%;
+}
+.p3 b
+{
+    font-size: 18px;
+    position: relative;
+    top: 35px;
+    font-family: arial;
+    display: flex;
+    justify-content: start;
+    color: white;
+}
+.p3 p
+{
+    position: relative;
+    top: 55px;
+    padding: 6px;
+    font-family: arial;
+    font-size: 15px;
+    display: flex;
+    justify-content: start;
+    color: grey;
+}
+.p4
+{
+    height: 460px;
+    width: 18%;
+    position: relative;
+    left: 10%;
+}
+.p4 b
+{
+    font-size: 18px;
+    position: relative;
+    top: 35px;
+    font-family: arial;
+    display: flex;
+    justify-content: start;
+    color: white;
+}
+.p4 p
+{
+    position: relative;
+    top: 55px;
+    padding: 6px;
+    font-family: arial;
+    font-size: 15px;
+    display: flex;
+    justify-content: start;
+    color: grey;
+}
+.p5
+{
+    height: 460px;
+    width: 18%;
+    position: relative;
+    left: 10%;
+}
+.p5 b
+{
+    font-size: 18px;
+    position: relative;
+    top: 35px;
+    font-family: arial;
+    display: flex;
+    justify-content: start;
+    color: white;
+}
+.p5 p
+{
+    position: relative;
+    top: 55px;
+    padding: 6px;
+    font-family: arial;
+    font-size: 15px;
+    display: flex;
+    justify-content: start;
+    color: grey;
+}
+
+
